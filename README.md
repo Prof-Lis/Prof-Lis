@@ -1,6 +1,7 @@
 ## @Prof-Lis ❤️
 - Oi sou professora de Educação Profissional na área de informática 💻 🖥️
-- 📖 👩‍🎓 meu interesse é pelas disciplinas de desenvolvimento Web - html, css, javascript, php 
+- 📖 👩‍🎓 meu interesse é pelas disciplinas de desenvolvimento Web - html, css, javascript, php
+- 📖 👩‍🎓 Pensamento Computacional
 
 <!---
 Prof-Lis/Prof-Lis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
