@@ -1,6 +1,7 @@
-## @Prof-Lis ❤️
-- Oi sou professora de Educação Profissional na área de informática 💻 🖥️
-- 📖 👩‍🎓 meu interesse é pelas disciplinas de desenvolvimento Web - html, css, javascript, php
+## @Prof-Lis 🌻
+- Oi sou professora de Educação Profissional na área de informática 💻🖥️
+- Atualmente trabalho no Núcleo Regional de Educação de Pato Branco - Como Embaixadora Edutech
+- 📖 📲 Meu interesse é pelos componente de desenvolvimento Web - html, css, javascript, php
 - 📖 👩‍🎓 Pensamento Computacional
 
 <!---
